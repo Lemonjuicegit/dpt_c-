@@ -1,0 +1,1 @@
+-ID:/dpt/build/bin -ID:/dpt/bin -ID:/dpt/build/bin/QButtonGroup_autogen/include -ID:/dpt/./include -ID:/dpt/bin/./include -isystem C:/Qt/6.0.2/mingw81_64/include/QtWidgets -isystem C:/Qt/6.0.2/mingw81_64/include -isystem C:/Qt/6.0.2/mingw81_64/include/QtCore -isystem C:/Qt/6.0.2/mingw81_64/mkspecs/win32-g++ -isystem C:/Qt/6.0.2/mingw81_64/include/QtGui

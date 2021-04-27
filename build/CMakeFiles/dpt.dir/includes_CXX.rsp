@@ -1,0 +1,1 @@
+-ID:/dpt/build -ID:/dpt -ID:/dpt/build/dpt_autogen/include -ID:/dpt/./include -isystem C:/Qt/6.0.2/mingw81_64/include/QtWidgets -isystem C:/Qt/6.0.2/mingw81_64/include -isystem C:/Qt/6.0.2/mingw81_64/include/QtCore -isystem C:/Qt/6.0.2/mingw81_64/mkspecs/win32-g++ -isystem C:/Qt/6.0.2/mingw81_64/include/QtGui

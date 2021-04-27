@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/dpt/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0601 -D_WIN64 @CMakeFiles/dpt.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dpt.dir\\dpt_autogen\\mocs_compilation.cpp.obj -c D:\\dpt\\build\\dpt_autogen\\mocs_compilation.cpp",
+  "file": "D:/dpt/build/dpt_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/dpt/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0601 -D_WIN64 @CMakeFiles/dpt.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dpt.dir\\dptUI.cpp.obj -c D:\\dpt\\dptUI.cpp",
+  "file": "D:/dpt/dptUI.cpp"
+},
+{
+  "directory": "D:/dpt/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0601 -D_WIN64 @CMakeFiles/dpt.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dpt.dir\\dpt.cpp.obj -c D:\\dpt\\dpt.cpp",
+  "file": "D:/dpt/dpt.cpp"
+},
+{
+  "directory": "D:/dpt/build/bin",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQButtonGroup_EXPORTS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0601 -D_WIN64 @CMakeFiles/QButtonGroup.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\QButtonGroup.dir\\QButtonGroup_autogen\\mocs_compilation.cpp.obj -c D:\\dpt\\build\\bin\\QButtonGroup_autogen\\mocs_compilation.cpp",
+  "file": "D:/dpt/build/bin/QButtonGroup_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/dpt/build/bin",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQButtonGroup_EXPORTS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0601 -D_WIN64 @CMakeFiles/QButtonGroup.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\QButtonGroup.dir\\dptButtonGroup.cpp.obj -c D:\\dpt\\bin\\dptButtonGroup.cpp",
+  "file": "D:/dpt/bin/dptButtonGroup.cpp"
+}
+]
